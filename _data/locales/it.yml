@@ -1,0 +1,31 @@
+it:
+  locale_name: Italiano
+  nav:
+    about: About
+    contribute: Contribute
+  index:
+    lead: Il software open source è fatto da persone come te. Impara come inziare e far crescere il tuo progetto.
+    opensourcefriday: È venerdi! Investi qualche ora contribuendo al software che usi e ami
+  article:
+    table_of_contents: Indice
+    back_to_all_guides: Torna alle guide
+    related_guides: Guide correlate
+  footer:
+    contribute:
+      heading: Contribuisci
+      description: Vuoi dare un consiglio? Questo contenuto è open source. Aiutaci a migliorarlo.
+      button: Contribuisci
+    subscribe:
+      heading: Resta in contatto
+      description: Sii il primo a conoscere gli ultimi suggerimenti e risorse open source di GitHub.
+      label: Indirizzo Email
+      button: Iscriviti
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] con [love] da [github] e [friends]"
+      # Label for code octicon
+      code_label: sviluppato
+      # Label for love octicon
+      love_label: amore
+      # Label for the contributors link
+      friends_label: amici
